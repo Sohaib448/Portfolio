@@ -3,9 +3,7 @@
 Welcome to my personal portfolio website repository. This project showcases my skills, projects, and experience as a Python/Django Backend Developer with an interest in AI and Web Development.
 
 🚀 Live Preview
-
-(Add your deployed link here if available)
-Example: https://your-portfolio-link.com
+sohaibnisar.vercel.app
 
 📌 About Me
 
